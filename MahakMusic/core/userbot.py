@@ -114,7 +114,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("roy_editx")
+                await self.four.join_chat("Ravan_Lankaa")
                 await self.one.join_chat("choti_bachii")
             except:
                 pass
